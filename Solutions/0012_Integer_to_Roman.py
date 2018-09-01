@@ -4,14 +4,6 @@ class Solution:
         :type num: int
         :rtype: str
         """
-        I = 1
-        V = 5
-        X = 10
-        L = 50
-        C = 100
-        D = 500
-        M = 1000
-        
         num_list = [int(i) for i in str(num)]
         num_length = len(num_list)
         j = 0
@@ -19,13 +11,10 @@ class Solution:
         
         if num_length == 4:
             if num_list[0] == 3:
-                print('a')
                 roman += 'MMM'
             elif num_list[0] == 2:
-                print('b')
                 roman += 'MM'
             else:
-                print('c')
                 roman += 'M'
         else:
             pass
