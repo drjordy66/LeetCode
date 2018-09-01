@@ -17,4 +17,4 @@ Solution | Problem Description
 [12. Integer to Roman](/Solutions/12_Integer_to_Roman) | https://leetcode.com/problems/integer-to-roman/description/
 [13. Roman to Integer](/Solutions/13_Roman_to_Integer) | https://leetcode.com/problems/roman-to-integer/description/
 [14. Longest_Common_Prefix](/Solutions/14_Longest_Common_Prefix) | https://leetcode.com/problems/longest-common-prefix/description/
-<div style="text-align: right"> * in progress </div>
+<right>* in progress</right>
