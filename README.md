@@ -7,7 +7,7 @@ Solution | Problem Description
 [2. Add Two Numbers](/Solutions/0002_Add_Two_Numbers.py) | https://leetcode.com/problems/add-two-numbers/description/
 [3. Longest Substring Without Repeating Characters](/Solutions/0003_Longest_Substring_Without_Repeating_Characters.py) | https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
 [4. Median of Two Sorted Arrays](/Solutions/0004_Median_of_Two_Sorted_Arrays.py) | https://leetcode.com/problems/median-of-two-sorted-arrays/description/
-\*5. Longest Palindromic Substring | https://leetcode.com/problems/longest-palindromic-substring/description/
+[5. Longest Palindromic Substring](/Solutions/0005_Longest_Palindromic_Substring.py) | https://leetcode.com/problems/longest-palindromic-substring/description/
 [6. ZigZag Conversion](/Solutions/0006_ZigZag_Conversion.py) | https://leetcode.com/problems/zigzag-conversion/description/
 [7. Reverse Integer](/Solutions/0007_Reverse_Integer.py) | https://leetcode.com/problems/reverse-integer/description/
 [8. String to Integer (atoi)](/Solutions/0008_String_to_Integer_(atoi).py) | https://leetcode.com/problems/string-to-integer-atoi/description/
