@@ -20,5 +20,6 @@ Solution | Problem Description
 [15. 3Sum](/Solutions/0015_3Sum.py) | https://leetcode.com/problems/3sum/description/
 [16. 3Sum Closest](/Solutions/0016_3Sum_Closest.py) | https://leetcode.com/problems/3sum-closest/description/
 [17. Letter Combinations of a Phone Number](/Solutions/0017_Letter_Combinations_of_a_Phone_Number.py) | https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/
+[21. Merge Two Sorted Lists](/Solutions/0021_Merge_Two_Sorted_Lists.py) | https://leetcode.com/problems/merge-two-sorted-lists/description/
 
 \* in progress
