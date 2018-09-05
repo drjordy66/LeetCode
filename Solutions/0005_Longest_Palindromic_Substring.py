@@ -15,7 +15,7 @@ class Solution:
             for j in sorted(indices, reverse=True):
                 if len(x[i:j + 1]) > len(longest):
                     forward = x[i:j + 1]
-                    backward = x[i: j + 1]
+                    backward = x[i:j + 1]
                     backward.reverse()
                     if forward == backward:
                         longest = ''.join(forward)
