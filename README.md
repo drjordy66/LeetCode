@@ -18,5 +18,6 @@ Solution | Problem Description
 [13. Roman to Integer](/Solutions/0013_Roman_to_Integer.py) | https://leetcode.com/problems/roman-to-integer/description/
 [14. Longest_Common_Prefix](/Solutions/0014_Longest_Common_Prefix.py) | https://leetcode.com/problems/longest-common-prefix/description/
 [15. 3Sum](/Solutions/0015_3Sum.py) | https://leetcode.com/problems/3sum/description/
+[16. 3Sum Closest](/Solutions/0016_3Sum_Closest.py) | https://leetcode.com/problems/3sum-closest/description/
 
 \* in progress
