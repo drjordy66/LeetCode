@@ -19,5 +19,6 @@ Solution | Problem Description
 [14. Longest_Common_Prefix](/Solutions/0014_Longest_Common_Prefix.py) | https://leetcode.com/problems/longest-common-prefix/description/
 [15. 3Sum](/Solutions/0015_3Sum.py) | https://leetcode.com/problems/3sum/description/
 [16. 3Sum Closest](/Solutions/0016_3Sum_Closest.py) | https://leetcode.com/problems/3sum-closest/description/
+[17. Letter Combinations of a Phone Number](/Solutions/0017_Letter_Combinations_of_a_Phone_Number.py) | https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/
 
 \* in progress
