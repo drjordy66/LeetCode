@@ -3,7 +3,7 @@ BEGIN
   DECLARE X INT DEFAULT N - 1;
   RETURN (
       # Write your MySQL query statement below.
-      SELECT(
+      SELECT (
           SELECT DISTINCT Employee.Salary
           FROM Employee
           ORDER BY Employee.Salary DESC
