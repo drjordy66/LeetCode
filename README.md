@@ -21,5 +21,13 @@ Solution | Problem Description
 [16. 3Sum Closest](/Algorithms/0016_3Sum_Closest.py) | https://leetcode.com/problems/3sum-closest/description/
 [17. Letter Combinations of a Phone Number](/Algorithms/0017_Letter_Combinations_of_a_Phone_Number.py) | https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/
 [21. Merge Two Sorted Lists](/Algorithms/0021_Merge_Two_Sorted_Lists.py) | https://leetcode.com/problems/merge-two-sorted-lists/description/
+[175. Combine Two Tables](/Database/0175_Combine_Two_Tables.sql) | https://leetcode.com/problems/combine-two-tables/description/
+[176. Second Highest Salary](/Database/0176_Second_Highest_Salary.sql) | https://leetcode.com/problems/second-highest-salary/description/
+[177. Nth Highest Salary](/Database/0177_Nth_Highest_Salary.sql) | https://leetcode.com/problems/nth-highest-salary/description/
+[181. Employees Earning More Than Their Managers](/Database/0181_Employees_Earning_More_Than_Their_Managers.sql) | https://leetcode.com/problems/employees-earning-more-than-their-managers/description/
+[182. Duplicate Emails](/Database/0182_Duplicate_Emails.sql) | https://leetcode.com/problems/duplicate-emails/description/
+[183. Customers Who Never Order](/Database/0183_Customers_Who_Never_Order.sql) | https://leetcode.com/problems/customers-who-never-order/description/
+[196. Delete Duplicate Emails](/Database/0196_Delete_Duplicate_Emails.sql) | https://leetcode.com/problems/delete-duplicate-emails/description/
+[197. Rising Temperature](/Database/0197_Rising_Temperature.sql) | https://leetcode.com/problems/rising-temperature/description/
 
 \* in progress
