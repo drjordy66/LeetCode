@@ -12,7 +12,6 @@ Solution | Problem Description
 [7. Reverse Integer](/Algorithms/0007_Reverse_Integer.py) | https://leetcode.com/problems/reverse-integer/description/
 [8. String to Integer (atoi)](/Algorithms/0008_String_to_Integer_(atoi).py) | https://leetcode.com/problems/string-to-integer-atoi/description/
 [9. Palindrome Number](/Algorithms/0009_Palindrome_Number.py) | https://leetcode.com/problems/palindrome-number/description/
-\*10. Regular Expression Matching | https://leetcode.com/problems/regular-expression-matching/description/
 [11. Container With Most Water](/Algorithms/0011_Container_With_Most_Water.py) | https://leetcode.com/problems/container-with-most-water/description/
 [12. Integer to Roman](/Algorithms/0012_Integer_to_Roman.py) | https://leetcode.com/problems/integer-to-roman/description/
 [13. Roman to Integer](/Algorithms/0013_Roman_to_Integer.py) | https://leetcode.com/problems/roman-to-integer/description/
